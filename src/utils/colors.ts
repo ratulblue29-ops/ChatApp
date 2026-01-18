@@ -1,0 +1,15 @@
+export const COLORS = {
+  background: '#111111',
+  cardBg: '#121212',
+  primary: '#FFD900',
+  secondaryText: '#9E9E9E',
+  border: '#333333',
+  green: '#84CC16',
+  white: '#FFFFFF',
+  disabled: '#7C7D7E',
+  inputBg: '#1D1D1D',
+  messageBubbleSent: '#FFD900',
+  messageBubbleReceived: '#1E1E1E',
+  textSent: '#111827',
+  textReceived: '#F9FAFB',
+};
